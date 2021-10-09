@@ -1,9 +1,15 @@
 ### Hello friends!  👋
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![linkedin badge](https://img.shields.io/badge/mateusdmc-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/mateus-ant%C3%B4nio-206a06179/)
+[![Instagram badge](https://img.shields.io/badge/mateusdmc-30302f?style=flat&logo=instagram)](https://www.instagram.com/mateusdmc/)
+[![Facebook badge](https://img.shields.io/badge/mateusdmc-30302f?style=flat&logo=Facebook)](https://www.facebook.com/mateusantonioti)
+
+<strong>I'm Mateus and I really like new challenges!</strong>
+
+- :heart_eyes: I love computing
+- :point_right: I love sharing ideas and solutions
+- :books: I'm currently looking for new knowledge in Progressive Web App (PWA)
+- :video_game: In my free time I like to play video games
 
 <!---
 mateusdmc/mateusdmc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
