@@ -10,6 +10,7 @@
 - :point_right: I love sharing ideas and solutions
 - :books: I'm currently looking for new knowledge in Progressive Web App (PWA)
 - :video_game: In my free time I like to play video games
+- :rocket: A curiosity: I like astronomy
 
 <!---
 mateusdmc/mateusdmc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
