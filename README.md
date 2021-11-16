@@ -7,8 +7,8 @@
 <strong>I'm Mateus and I really like new challenges!</strong>
 
 - :heart_eyes: I love computing
-- :point_right: I love sharing ideas and solutions
-- :books: I'm currently looking for new knowledge in Progressive Web App (PWA)
+- :point_right: I love to share ideas and solutions
+- :books: Currently, I'm learning about Progressive Web App (PWA)
 - :video_game: In my free time I like to play video games
 - :rocket: A curiosity: I like astronomy
 
